@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+@import "tailwindcss";
+
+.header-p{
+    background-color: #073119;
+    border: hsl(146, 75%, 25%);
+    height: 6rem;
+    
+}
+
+.txt-dg{
+    color: #073119;
+}
+
+.txt-sb{
+    color: #512f15;
+}
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
